@@ -10,24 +10,34 @@ I focus on writing clean code and creating smooth user experiences with modern t
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- React
-- React Router
-- Firebase
-- Axios
-- TanStack Query (React Query)
+  <div>
+    <h3>🎨 Frontend</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Tailwind CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>React Router</li>
+      <li>Firebase</li>
+      <li>Axios</li>
+      <li>TanStack Query</li>
+    </ul>
+  </div>
 
-### ⚙️ Backend
+  <div>
+    <h3>⚙️ Backend</h3>
+    <ul>
+      <li>Node.js</li>
+      <li>Express.js</li>
+      <li>MongoDB</li>
+      <li>JWT Authentication & Authorization</li>
+    </ul>
+  </div>
 
-- Node.js
-- Express.js
-- MongoDB
-- JWT (JSON Web Token) Authentication & Authorization
+</div>
 
 ---
 
