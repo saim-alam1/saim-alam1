@@ -54,11 +54,12 @@ I focus on writing clean code and creating smooth user experiences with modern t
 
 ---
 
-## 🎯 Hobbies & Interests
+## 📫 Connect with Me
 
-- 🎮 Playing Video Games
-- ♟️ Playing Chess
-- 💻 Exploring new web technologies
+- 🌐 **LinkedIn:** [Saim Alam](https://www.linkedin.com/in/imsaim/)
+- 💬 **Discord:** **alam_saim**
+- 🐦 **Twitter/X:** [@saim_alam1](https://x.com/saim_alam1)
+- 🧠 Always open to learning, collaboration, and new ideas!
 
 ---
 
@@ -68,5 +69,3 @@ If you like my work or want to collaborate, feel free to connect with me.
 I’m always open to learning, building, and growing 🚀
 
 ---
-
-⭐ _If you like this project, don’t forget to star the repository!_
