@@ -33,7 +33,7 @@ I focus on writing clean code and creating smooth user experiences with modern t
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project's
 
 ### 🍽️ ShareBite
 
