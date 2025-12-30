@@ -10,26 +10,16 @@ I focus on writing clean code and creating smooth user experiences with modern t
 
 ## 🛠️ Tech Stack
 
-| 🎨 Frontend    | ⚙️ Backend         |
-| -------------- | ------------------ |
-| HTML           | Node.js            |
-| CSS            | Express.js         |
-| Tailwind CSS   | MongoDB            |
-| JavaScript     | JWT Authentication |
-| React          |                    |
-| React Router   |                    |
-| Firebase       |                    |
-| Axios          |                    |
-| TanStack Query |                    |
-
----
-
-## 🔐 Security & Performance
-
-- JWT-based authentication to prevent unauthorized access
-- Secure API routes (both frontend & backend)
-- Axios for smooth client–server communication
-- TanStack Query for caching, re-fetching & improved UX
+| 🎨 Frontend    | ⚙️ Backend         | 🔐 Security              | ⚡ Performance        |
+| -------------- | ------------------ | ------------------------ | -------------------- |
+| HTML           | Node.js            | JWT Authentication       | TanStack Query       |
+| CSS            | Express.js         | Protected API Routes     | Caching              |
+| Tailwind CSS   | MongoDB            | Firebase Auth            | Optimized Re-fetch   |
+| JavaScript     |                    | Authorization Middleware| Axios                |
+| React          |                    |                          |                      |
+| React Router   |                    |                          |                      |
+| Firebase       |                    |                          |                      |
+| Axios          |                    |                          |                      |
 
 ---
 
