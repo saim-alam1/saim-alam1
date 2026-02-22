@@ -23,6 +23,7 @@ I focus on writing clean code and creating smooth user experiences with modern t
 
 ---
 
+<!--
 ## 🚀 Featured Project's
 
 ### 🍽️ ShareBite
@@ -43,6 +44,7 @@ I focus on writing clean code and creating smooth user experiences with modern t
 - Clean and scalable project structure
 
 ---
+-->
 
 ## 📫 Connect with Me
 
