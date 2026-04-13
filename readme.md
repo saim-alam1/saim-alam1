@@ -50,7 +50,7 @@ I focus on writing clean code and creating smooth user experiences with modern t
 
 - 🌐 **LinkedIn:** [Saim Alam](https://www.linkedin.com/in/imsaim/)
 - 💬 **Discord:** **alam_saim**
-<!-- - 🐦 **Twitter/X:** [@saim_alam1](https://x.com/saim_alam1) -->
+- 🐦 **Twitter/X:** [@saim_alam1](https://x.com/saim_alam1)
 - 🧠 Always open to learning, collaboration, and new ideas!
 
 ---
