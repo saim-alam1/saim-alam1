@@ -8,7 +8,7 @@ I focus on writing clean code and creating smooth user experiences with modern t
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology's I Use
 
 | 🎨 Frontend    | ⚙️ Backend         | 🔐 Security              | ⚡ Performance        |
 | -------------- | ------------------ | ------------------------ | -------------------- |
